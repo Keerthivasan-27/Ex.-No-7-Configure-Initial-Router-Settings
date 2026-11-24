@@ -1,5 +1,7 @@
 ## Ex. No: 7 – Configure Initial Router Settings
-# Date: ___________
+# Date: ____24/11/2026_______
+KEERTHIVASAN A
+212223060124
 ________________________________________
 # Objective
 To perform basic router configuration tasks in Cisco Packet Tracer including:<br>
@@ -16,7 +18,8 @@ ________________________________________<br>
 •	Console cable (RS-232 to Console)<br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot here showing Router R1 and PC with console connection)
+<img width="1917" height="1078" alt="Screenshot 2026-11-24 152828" src="https://github.com/user-attachments/assets/e652043c-d065-47d0-99e4-660f4c6db0ff" />
+
 ________________________________________
 # Procedure
 # Part 1: Verify the Default Router Configuration
@@ -80,10 +83,19 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+<img width="1917" height="1078" alt="Screenshot 2026-11-24 152828" src="https://github.com/user-attachments/assets/e652043c-d065-47d0-99e4-660f4c6db0ff" />
 •	Running configuration before and after<br>
+<img width="1902" height="1077" alt="image" src="https://github.com/user-attachments/assets/1fd4572f-ee6f-4cb3-badd-c80170d7b8d6" />
+
 •	MOTD banner display<br>
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/ecd582d4-5637-4392-bcf8-ae5a6a4db833" />
+
 •	Password prompts<br>
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/adc0e4a7-a47e-4254-a847-85ea6a421c07" />
+
 •	Saved configuration in NVRAM and flash<br>
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c342242d-c322-4334-886a-da9b4c5c5dd0" />
+
 ________________________________________
 # Result
 The router was successfully configured with hostname, banner, encrypted passwords, and secure console access. The configuration was verified and saved to NVRAM and flash, ensuring persistence across reboots.
